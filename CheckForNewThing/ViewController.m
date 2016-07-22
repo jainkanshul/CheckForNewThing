@@ -14,7 +14,10 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
+    
+    NSLog(@"hello check this is connected or not");
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
